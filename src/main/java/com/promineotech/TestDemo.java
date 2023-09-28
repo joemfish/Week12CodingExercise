@@ -33,10 +33,9 @@ public class TestDemo {
 	
 		
 }
-	int hipToBeSquared = getRandomInt();
 	
 	public int randomNumberSquared() {
-		getRandomInt();
+		int hipToBeSquared = getRandomInt();
 		return hipToBeSquared * hipToBeSquared;
 		}
 
